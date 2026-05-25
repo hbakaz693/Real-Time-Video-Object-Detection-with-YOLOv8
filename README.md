@@ -11,6 +11,18 @@
 
 
 
+
+-Ceci le finalite de enrainement 
+
+
+<img width="789" height="164" alt="image" src="https://github.com/user-attachments/assets/54d9d307-1deb-420c-90c3-ee4ed77b490d" />
+
+
+-Est le model best.py est :
+
+
+
+
 YOLOV8 :  est un modèle de Computer Vision utilisé pour la détection d’objets en temps réel.
 Avec YOLOv8, l’ordinateur peut :
 
