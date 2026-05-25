@@ -49,6 +49,31 @@ chien
 <img width="621" height="126" alt="image" src="https://github.com/user-attachments/assets/2900f7de-a3e7-43c0-b13e-c6551cb930c9" />
 
 
+-Et voila le datasets et pret 
+
+
+
+
+## Etape 3: Lance entrainement de model 
+
+<img width="335" height="87" alt="image" src="https://github.com/user-attachments/assets/4ae19f87-8cf5-4a33-8aaa-f41338140829" />
+
+
+
+-Je suis maintanant au epoche 14 ceci le resulatat
+
+<img width="764" height="79" alt="image" src="https://github.com/user-attachments/assets/f6e2b3da-1ae8-4cb1-ab8a-3a877133db1a" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
