@@ -1,8 +1,8 @@
 from ultralytics import YOLO
 import cv2
 
-model_coco = YOLO("yolov8n.pt")   # classes principales
-model_plastic = YOLO("Model/best.pt")   # ta classe plastic_bag
+model_coco = YOLO("yolov8n.pt")   # classes principales de YOLO
+model_plastic = YOLO("Model/best.pt")   #  classe plastic_bag
 
 cap = cv2.VideoCapture(0)
 
