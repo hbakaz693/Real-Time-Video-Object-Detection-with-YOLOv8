@@ -45,11 +45,19 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70">
 
+  
+
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="70">
+
+  
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70">
 
+  
+
   <img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" width="70">
+
+  
 
 </p>
 
