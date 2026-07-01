@@ -29,7 +29,7 @@
 
 <h2>🚀 Features</h2>
 <ul>
-  <li>eal-time webcam object detection</li>
+  <li>Real-time webcam object detection</li>
   <li>Custom YOLOv8 model training</li>
   <li>Plastic bag detection</li>
   <li>OpenCV webcam integration</li>
